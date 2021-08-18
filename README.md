@@ -1,4 +1,5 @@
 # Weather Forecast Clock
+![image](https://user-images.githubusercontent.com/9050730/129965998-396961d7-27db-4fa5-ad31-82ed73de3391.png)
 
 A simple, yet effectful, weather clock which shows the weather in Luleå/Sweden for the 12 upcoming hours.
 
